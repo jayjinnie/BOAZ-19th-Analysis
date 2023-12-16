@@ -54,7 +54,7 @@
 * **분석 환경** <br>
   Python
 
-### 2차 미니 프로젝트 '리뷰 감성분석을 통한 전통주 추천 서비스'
+### 2차 미니 프로젝트 'FinBert 감성분석 모델을 활용한 주식 트렌드 분석'
 <a href="https://github.com/BoazBossBaby/Monitoring-Stock-Trends-using-Sentiment-Analysis">Repository 링크</a>
 
 ![image](https://github.com/BoazBossBaby/Monitoring-Stock-Trends-using-Sentiment-Analysis/assets/65335952/c8e79e19-128a-40e8-8db2-a08ba4d3ca61)
@@ -65,8 +65,6 @@
   20기 BASE 세션 주차별 발제 - 5주차 RNN 파트 발제 진행
 
 ### 2차 미니 프로젝트 '리뷰 감성분석을 통한 전통주 추천 서비스'
-<a href="https://github.com/BoazBossBaby/Monitoring-Stock-Trends-using-Sentiment-Analysis">Repository 링크</a>
+<a href="https://github.com/BOAZU/Sentiment-Analysis-and-Recommended-Sysmtem-of--Traditional-Liquor-Reviews">Repository 링크</a>
 
 ![image](https://github.com/BOAZU/Sentiment-Analysis-and-Recommended-Sysmtem-of--Traditional-Liquor-Reviews/assets/65335952/6f6eba83-939e-4f29-bd82-5880626b7c59)
-
-<a href="https://github.com/orgs/BOAZU/repositories">Repository 링크</a>
